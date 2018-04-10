@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:474px;
+  width:375px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -882,26 +882,4 @@
   height:53px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
-}
-#u67_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:28px;
-  height:28px;
-}
-#u67 {
-  position:absolute;
-  left:446px;
-  top:320px;
-  width:28px;
-  height:28px;
-}
-#u68 {
-  position:absolute;
-  left:2px;
-  top:6px;
-  width:24px;
-  visibility:hidden;
-  word-wrap:break-word;
 }
