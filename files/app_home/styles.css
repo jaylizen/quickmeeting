@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:411px;
+  width:375px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -882,32 +882,4 @@
   height:53px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
-}
-#u67_div {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:36px;
-  height:16px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u67 {
-  position:absolute;
-  left:375px;
-  top:371px;
-  width:36px;
-  height:16px;
-}
-#u68 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:36px;
-  white-space:nowrap;
 }
